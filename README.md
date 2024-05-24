@@ -40,7 +40,7 @@ Outra opção de execução do programa é por meio do comando "main.exe" no cmd
 
 Crie um sistema educacional para uma escola com as classes Pessoa e classes derivadas (herença) Aluno e Professor, de acordo com o diagrama de classes apresentado:
 
-![Diagrama do Exercício]["src/alunoprofessor.png]
+![Diagrama do Exercício][src/alunoprofessor.png]
 
 A classe Pessoa tem os atributos protected nome, telefone, cpf; e o método exibir(), que exibe todos seus atributos.
 
