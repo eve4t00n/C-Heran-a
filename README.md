@@ -20,7 +20,7 @@ Para executar e compilar o programa é necessário possuir algum compilador inst
 g++ ./src/main.cpp ./src/Pessoa/Pessoa.cpp ./src/Aluno/Aluno.cpp ./src/Professor/Professor.cpp -o main.exe
 ```
 
-Para encurtar o comando de compilação eu desenvolvi 2 scripts que facilitam e executam o programa simultaneamente <a href="./start.bat">start.bat</a> e <a href="./package.json">.
+Para encurtar o comando de compilação eu desenvolvi 2 scripts que facilitam e executam o programa simultaneamente <a href="./start.bat">start.bat</a> e <a href="./package.json">package.json</a>
 
 ### package.json
 
