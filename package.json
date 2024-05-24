@@ -1,0 +1,12 @@
+{
+  "name": "cppestudo",
+  "version": "1.0.0",
+  "description": "Script para compilar e executar o código C++",
+  "main": "main.cpp",
+  "scripts": {
+    "start": "g++ ./src/main.cpp ./src/Pessoa/Pessoa.cpp ./src/Aluno/Aluno.cpp ./src/Professor/Professor.cpp -o main.exe && main.exe"
+  },
+  "keywords": [],
+  "author": "eve4t00n",
+  "license": "ISC"
+}
